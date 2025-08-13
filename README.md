@@ -19,3 +19,6 @@ Aplicación que permite a los usuarios ingresar nombres de amigos en una lista p
 - JavaScript
 - HTML
 - CSS
+
+# Cómo ejecutar el proyecto
+1. Abre el link https://oscarhdzhdz.github.io/Challenge-Amigo-Secreto/
